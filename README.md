@@ -1,5 +1,9 @@
 # Repo-elevador.
 
+Integrantes :
+Flores Jaime Andrea Margarita 
+GUZMAN RODRIGUEZ INGRID JULIETA
+
 pseudocodigo
 INICIO
 
