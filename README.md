@@ -3,6 +3,7 @@
 Integrantes :
 Flores Jaime Andrea Margarita 
 GUZMAN RODRIGUEZ INGRID JULIETA
+Hernández Herrera Ulises Gadiel
 
 pseudocodigo
 INICIO
