@@ -4,6 +4,65 @@ Integrantes :
 Flores Jaime Andrea Margarita 
 GUZMAN RODRIGUEZ INGRID JULIETA
 Hernández Herrera Ulises Gadiel
+Hernández Cruz Mariel
+
+SISTEMA MECÁNICO 
+componentes: 
+ - cabina del elevador 
+ - contrapeso 
+ - guias verticales 
+ - Motor (generalmente de tracción) 
+ - Poleas y cables de acero 
+ - Amortiguadores 
+Función 
+ - Permite el movimiento vertical de la cabina entre pisos 
+ - El contrapeso equilibra el peso de la cabina para reducir la carga del motor
+ - Las guias aseguran que la cabina se desplace de forma estable y recta.
+
+SISTEMA ELÉCTICO 
+Componentes :
+ - Motor eléctrico (AC o DC).
+ - Fuente de alimentación.
+ - Sistema de iluminación (cabina y paneles).
+ - Cableado y conectores.
+Función:
+ - Suministra energia al motor y a todos los dispositivos electrónicos del elevador.
+ - Asegura el funcionamiento de luces, indicadores y sensores.
+ - Puede incluir baterias o UPS para respaldo en caso de apagón.
+
+SISTEMA DE CONTROL 
+Componentes :
+ - Unidad logics programable (PLC o microcontrolador).
+ - Panel de control (interior y exterior).
+ - Sensores de piso y posición.
+ - Variador de velocidad.
+Función:
+ - Recibe las solicitudes de piso (internas y externas).
+ - Controla el motor para mover la cabina al piso solicitado. 
+ - Regula la velocidad y aceleración para visjes suaves. 
+ - Sincroniza la apertura y cierre de puertas. 
+
+SISTEMA DE SEGURIDAD : 
+Componentes: 
+ - Freno electromecánico. 
+ - Limitadores de velocidad. 
+ - Sensores de puertas ( antipinzamiento) 
+ - Sistema de comunicación de emergencia. 
+ - Amortiguadores en el fondo del eje. 
+Función : 
+ - Detiene el elevador si supera la velocidad máxima.
+ - Asegura que las puertas no se cierren con personas u objetos en el paso.
+ - Permite llamadas de emergencia en caso de fallo.
+ - Protege a los pasajeros en caso de caida o choque. 
+
+
+
+
+
+
+
+
+
 
 pseudocodigo
 INICIO
